@@ -1,0 +1,8 @@
+3
+S -> AB
+A -> aA d
+B -> bBc e
+
+d
+adbc
+a
